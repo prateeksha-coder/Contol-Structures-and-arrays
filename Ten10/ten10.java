@@ -1,4 +1,4 @@
-class Main {
+class ten10 {
   public static void main(String[] args) {
 	  //using for loop
 	   for(int i=10; i>1; i--){

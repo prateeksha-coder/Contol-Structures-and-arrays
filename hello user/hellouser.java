@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class hellouser {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello User please Enter your Name: ");
@@ -9,6 +9,6 @@ class Main {
         int lucky = sc.nextInt();
         System.out.println(
                 "Hello " + name + ", Your lucky number " + lucky + " shows you are really hardworking.Keep it up!");
-
+        sc.close();
     }
 }

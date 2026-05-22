@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Main {
+class grad {
     public static void main(String[] args) {
         int sum = 0;
         String result;
@@ -33,5 +33,8 @@ class Main {
             result = "you passed";
         }
         System.out.println(result);
+     sc.close();
     }
+
+   
 }
